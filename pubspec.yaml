@@ -70,6 +70,7 @@ flutter:
     - assets/icons/
     - assets/translations/
     - assets/fonts/
+    - assets/readme/
     - .env
   fonts:
     - family: Sora
