@@ -151,20 +151,33 @@ lib/
 
 ---
 
-## 📦 Installation
+# 📦 Installation
+
+Clone the repository:
 
 ```bash
 git clone https://github.com/20Mahmoud06/AURA.git
+```
 
+Navigate to the project directory:
+
+```bash
 cd AURA
+```
 
+Install dependencies:
+
+```bash
 flutter pub get
+```
 
+Run the application:
+
+```bash
 flutter run
 ```
 
 ---
-
 ## 🤝 Contributing
 
 Contributions, feature requests, and improvements are always welcome.
