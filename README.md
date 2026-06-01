@@ -192,8 +192,6 @@ MIT License
 
 ---
 
----
-
 # 👨‍💻 Developer
 
 ### Mahmoud Safa
