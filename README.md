@@ -192,6 +192,16 @@ MIT License
 
 ---
 
+---
+
+# 👨‍💻 Developer
+
+### Mahmoud Safa
+
+Flutter Developer passionate about building high-performance mobile applications with modern UI/UX and clean architecture.
+
+---
+
 <p align="center">
 Built with ❤️ by Mahmoud Safa
 </p>
