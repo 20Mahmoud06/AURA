@@ -20,7 +20,7 @@ Music. Videos. Playlists. Everything in One Beautiful Experience.
 ---
 
 <p align="center"> 
-Please note that I am not responsible for any misuse of the application for anything forbidden.
+Please note that I am not responsible for any misuse of the application for anything forbidden or haram.
 </p>
 
 ---
