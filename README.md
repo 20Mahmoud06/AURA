@@ -19,6 +19,12 @@ Music. Videos. Playlists. Everything in One Beautiful Experience.
 
 ---
 
+<p align="center"> 
+Please note that I am not responsible for any misuse of the application for anything forbidden.
+</p>
+
+---
+
 ## 🚀 Overview
 
 AURA is a modern local media player built with Flutter, designed to deliver a smooth, immersive, and cinematic entertainment experience.
