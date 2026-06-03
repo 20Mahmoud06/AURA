@@ -142,21 +142,6 @@ lib/
 
 ---
 
-## 🎯 Roadmap
-
-### Upcoming Features
-
-- 🎤 Lyrics Support
-- 🎚️ Equalizer
-- 😴 Sleep Timer
-- 🎨 Material You Integration
-- 📺 Android TV Support
-- 📡 Chromecast Support
-- ☁️ Cloud Backup & Restore
-- 🎭 Custom Themes
-
----
-
 # 📦 Installation
 
 Clone the repository:
